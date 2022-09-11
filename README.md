@@ -1,4 +1,4 @@
-<h1>상품 목록</h1>
+<h1>로그인</h1>
 
 
 <h3>index.jsp => member/login.jsp로 redirect</h3>
@@ -11,10 +11,10 @@
 
 
 
+<h1>상품 목록</h1>
 
 
-
-main/main.jsp => goods/home.jsp로 redirect
+<h3>main/main.jsp => goods/home.jsp로 redirect</h3>
 
 
 
@@ -24,10 +24,10 @@ main/main.jsp => goods/home.jsp로 redirect
 
 
 
+<h1>상품 상세</h1>
 
 
-
-goods/all_detail.jsp
+<h3>goods/all_detail.jsp</h3>
 
 
 
@@ -41,7 +41,7 @@ goods/all_detail.jsp
 
 
 
-댓글 목록
+<h1>댓글 목록</h1>
 
 
 
@@ -53,9 +53,10 @@ goods/all_detail.jsp
 
 
 
+<h1>댓글 삭제</h1>
 
 
-답변이 있는 댓글 삭제 시 '관리자가 삭제한 댓글입니다.' 문구
+<h3>답변이 있는 댓글 삭제 시 '관리자가 삭제한 댓글입니다.' 문구</h3>
 
 
 
@@ -66,10 +67,10 @@ goods/all_detail.jsp
 
 
 
+<h1>상품 검색</h1>
 
 
-
-goods/find.jsp
+<h3>goods/find.jsp</h3>
 
 
 
@@ -83,7 +84,7 @@ goods/find.jsp
 
 
 
-카테고리 별로 검색 가능
+<h3>카테고리 별로 검색 가능</h3>
 
 
 
