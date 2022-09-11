@@ -1,7 +1,7 @@
-<h1>상품 목록<h1>
+<h1>상품 목록</h1>
 
 
-index.jsp => member/login.jsp로 redirect
+<h3>index.jsp => member/login.jsp로 redirect</h3>
 
 
 
